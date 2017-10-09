@@ -1,4 +1,4 @@
-# structured_light
+# Structured Light Pattern Generator
 Implements various structured light pattern generators.
 
 For now the only supported one is the single-shot color pattern of:
